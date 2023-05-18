@@ -1,2 +1,7 @@
 hello world 
 This is my hew file in git 
+hello 
+mahah
+nabe 
+nehem
+nsna
